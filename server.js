@@ -1,7 +1,7 @@
 
 import cors from 'cors'
 import express from 'express'
-import bodyParser from 'body-parser'
+import 'bootstrap'
 import route from './meu-projeto/back-end/routes/user.route.js'
 
 const app = express()

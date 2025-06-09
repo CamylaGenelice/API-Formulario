@@ -1,0 +1,6 @@
+@import 'node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
